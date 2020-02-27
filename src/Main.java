@@ -5,6 +5,8 @@ public class Main {
         TaskA.taskA();
         System.out.println("------------------ Task B ------------------"+"/n");
         TaskB.taskB();
+        System.out.println("------------------ Task C ------------------"+"/n");
+        TaskC.taskC();
 
 
     }
