@@ -9,6 +9,8 @@ public class Main {
         TaskC.taskC();
         System.out.println("\n"+"------------------ Task D ------------------"+"\n");
         TaskD.taskD();
+        System.out.println("\n"+"------------------ Task E ------------------"+"\n");
+        TaskE.TaskE();
 
 
     }
