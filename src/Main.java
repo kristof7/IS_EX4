@@ -1,12 +1,14 @@
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
-        System.out.println("------------------ Task A ------------------"+"/n");
+        System.out.println("\n"+"------------------ Task A ------------------"+"\n");
         TaskA.taskA();
-        System.out.println("------------------ Task B ------------------"+"/n");
+        System.out.println("\n"+"------------------ Task B ------------------"+"\n");
         TaskB.taskB();
-        System.out.println("------------------ Task C ------------------"+"/n");
+        System.out.println("\n"+"------------------ Task C ------------------"+"\n");
         TaskC.taskC();
+        System.out.println("\n"+"------------------ Task D ------------------"+"\n");
+        TaskD.taskD();
 
 
     }
